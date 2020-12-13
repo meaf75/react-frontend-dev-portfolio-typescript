@@ -1,0 +1,1 @@
+export const PROFILE_PIC = "images/myProfile.jpg";

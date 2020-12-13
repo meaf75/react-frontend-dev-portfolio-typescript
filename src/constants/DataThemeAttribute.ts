@@ -1,0 +1,1 @@
+export const DATA_THEME_ATTRIBUTE = "data-theme";

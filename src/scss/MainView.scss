@@ -1,0 +1,15 @@
+.margin-left-10 {
+    margin-left: 10px;
+}
+
+.selected-language {
+    border-radius: 20;
+    border-style: dashed;
+    border-color: gray;
+}
+
+.languages-container {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
