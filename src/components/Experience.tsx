@@ -37,7 +37,7 @@ export const Experience = () => {
           color: "#fff",
           textAlign: "center",
         }}
-        icon={<span className={`mdi mdi-${work.mainIcon}`} style={{ fontSize: 40 }}></span>}
+        icon={<span className={`mdi mdi-${work.mainIcon} experience-icon`} style={{ fontSize: 40 }}></span>}
         key={i}
       >
         <div style={{ textAlign: "left", marginBottom: "4px" }}>
@@ -83,7 +83,7 @@ export const Experience = () => {
               textAlign: "center",
             }}
             icon={
-              <span className={`mdi mdi-angular`} style={{ fontSize: 40 }}></span>
+              <span className={`mdi mdi-timer-sand experience-icon`} style={{ fontSize: 40 }}></span>
             }
           />
         </VerticalTimeline>
